@@ -38,6 +38,28 @@ $charge = \Stripe\Charge::create(array(
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-Succès
+
+<div class="backer1">
+    <div class="container">
+
+            <div class="col-xs-12 col-md-12">
+            <div class="intro">
+            <h1>Merci pour votre commande !</h1>
+                <p class="lead">Vous recevrez un email de confirmation sous peu !</p>
+            </div>
+            </div>
+    </div><!-- /.container -->
+<!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <!-- Bootstrap Javascript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+    <script>
+        $(function() {
+            //-----------------------------------
+            // Mettre votre code javascript ici, si nécessaire
+            //-----------------------------------
+        });
+    </script>
 </body>
 </html>

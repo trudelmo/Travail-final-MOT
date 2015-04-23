@@ -5,6 +5,15 @@ nav {
 h1 {
 
 	color:#000;
+	margin-top: 80px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+h2 {
+	color: #fff;
+	text-align: center;
+	margin-bottom: 40px;
 }
 
 .intro {
@@ -22,4 +31,35 @@ background-color: #05a7c0;
 .media {
 padding: 20px 0 20px 0;
 
+}
+.articlechat {
+width: 100%;
+background-color: #05a7c0;
+margin-top: 60px;
+margin-bottom: 60px;
+
+}
+
+.articlechat2 {
+	width: 100%;
+background-color: #05a7c0;
+margin-top: 60px;
+padding-bottom: 160px;
+}
+
+.catalogue{
+
+text-align: center;
+}
+
+footer{
+	height: 120px;
+
+	text-align:center;
+}
+
+.social {
+
+	text-align: center;
+	padding-bottom: 40px;
 }
